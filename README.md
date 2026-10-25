@@ -126,18 +126,3 @@ protests in Huntington Beach (a town in Orange County), which may have
 affected my views of the five counties studied. However, I made an
 attempt to be led by the data at all times and to not let my personal
 biases affect my work.
-
-## Notes on Methodology and Data Cleaning
-
-There were several columns in the datasets that I did not use in my
-analysis, such as Iso codes, latitude, and longitude. Similarly, I
-narrowed the data down to the rows that contained information about my
-five counties of interest. Finally, I pivoted the data in order to have
-each date represent a row and moved the case and death counts to a
-column.
-
-After the data was cleaned, I combined the two data sets into one and
-added columns for deaths per thousand and cases per thousand in order to
-standardize the case and death counts across the various populations. I
-also changed the datatype of the values in the date column to dates
-rather than characters.
