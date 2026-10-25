@@ -7,7 +7,10 @@ The five most populous counties in California (Los Angeles, Orange,
 Riverside, San Bernardino, and San Diego) are all located in Southern
 California. Despite being geographically contiguous, the counties are
 dissimilar in a number of ways, from population size to median income
-and educational attainment.
+and educational attainment. Given the known effects of certain demographic details like age and
+income on COVID incidence and mortality, I wanted to investigate whether
+these counties had notably different outcomes regarding case numbers and
+mortality rates during the pandemic.
 
 | County | Population (in millions) | Median Age | Median Household Income | Percentage of Pop. with a Bachelor’s Degree or Higher |
 |----|----|----|----|----|
@@ -19,10 +22,6 @@ and educational attainment.
 
 <small>Data Source: U.S. Census Bureau</small>
 
-Given the known effects of certain demographic details like age and
-income on COVID incidence and mortality, I wanted to investigate whether
-these counties had notably different outcomes regarding case numbers and
-mortality rates during the pandemic.
 
 ## Data
 
