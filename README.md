@@ -1,4 +1,3 @@
-[socal-covid-outcomes.md](https://github.com/user-attachments/files/33938266/socal-covid-outcomes.md)
 SoCal Covid Outcomes
 ================
 
